@@ -1,19 +1,43 @@
-## Hi there 👋
+# Hi there 👋
 
+**My Name is Abdus Shohid Nasim (Naiem)**
+🌍 Living and coding from **Bangladesh** 🇧🇩
 
-**abdusshohidnasim/abdusshohidnasim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌱 What I’m Learning
 
- ### My Name is Abus Shohid Nasim (Naiem) 
-##  🌍 Living and coding from Bangladesh 🇧🇩
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Flutter
-- 🤔 I’m looking for help with flutter 
-- 💬 Ask me about https://www.facebook.com/naiemhasannaim.71nr
-- 📫 How to reach me WhatsApp: https://wa.me/qr/XAEI2OD237CDH1
-- 📫 Or message me on Email: abdusshohidnasim@gmail.com
-- 📫 Or message me on LinkedIn : https://www.linkedin.com/in/abdus-shohid-nasim-naiem-248567236/
-- 📫 Or contact me on Telegram : Naiem998979
-- 📞 Emergency contact numbe +8801851998979 
-- ⚡ Fun fact: I love solving bugs more than writing new code.
+Currently diving into **Flutter** — building beautiful cross-platform apps.
+
+### 👯 Collaboration
+
+Looking to collaborate on **Flutter projects** and mobile app development ideas.
+
+### 🤔 Need Help With
+
+Improving my **Flutter** skills and exploring advanced app development techniques.
+
+### 💬 Ask Me About
+
+You can reach out or chat with me here:
+[Facebook](https://www.facebook.com/naiemhasannaim.71nr)
+
+---
+
+### 📫 How to Reach Me
+
+* 💬 **WhatsApp:** [Click to message](https://wa.me/qr/XAEI2OD237CDH1)
+* 📧 **Email:** [abdusshohidnasim@gmail.com](mailto:abdusshohidnasim@gmail.com)
+* 💼 **LinkedIn:** [Abdus Shohid Nasim (Naiem)](https://www.linkedin.com/in/abdus-shohid-nasim-naiem-248567236/)
+* 💬 **Telegram:** `Naiem998979`
+* 📞 **Emergency Contact:** +8801851998979
+
+---
+
+### ⚡ Fun Fact
+
+I love solving bugs more than writing new code 🐛❤️
+
+---
+
+*Thanks for visiting my profile!* 😄
