@@ -10,5 +10,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Flutter
 - 🤔 I’m looking for help with flutter 
 - 💬 Ask me about https://www.facebook.com/naiemhasannaim.71nr
-- 📫 How to reach me: https://wa.me/qr/XAEI2OD237CDH1
+- 📫 How to reach me WhatsApp: https://wa.me/qr/XAEI2OD237CDH1
+- 📫 Or message me on Email: abdusshohidnasim@gmail.com
+- 📫 Or message me on LinkedIn : https://www.linkedin.com/in/abdus-shohid-nasim-naiem-248567236/
+- 📫 Or contact me on Telegram : Naiem998979
+- 📞 Emergency contact numbe +8801851998979 
 - ⚡ Fun fact: I love solving bugs more than writing new code.
