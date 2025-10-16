@@ -29,7 +29,7 @@ You can reach out or chat with me here:
 * 💬 **WhatsApp:** [Click to message](https://wa.me/qr/XAEI2OD237CDH1)
 * 📧 **Email:** [abdusshohidnasim@gmail.com](mailto:abdusshohidnasim@gmail.com)
 * 💼 **LinkedIn:** [Abdus Shohid Nasim (Naiem)](https://www.linkedin.com/in/abdus-shohid-nasim-naiem-248567236/)
-* 💬 **Telegram:** `Naiem998979`
+* 💬 **Telegram:** [Click to message](https://t.me/Naiem998979)
 * 📞 **Emergency Contact:** +8801851998979
 
 ---
@@ -40,4 +40,4 @@ I love solving bugs more than writing new code 🐛❤️
 
 ---
 
-*Thanks for visiting my profile!* 😄
+#*Thanks for visiting my profile!* 😄
