@@ -40,4 +40,4 @@ I love solving bugs more than writing new code 🐛❤️
 
 ---
 
-#*Thanks for visiting my profile!* 😄
+#*Thanks for visiting my profile!* 😄 
