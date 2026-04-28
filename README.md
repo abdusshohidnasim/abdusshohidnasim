@@ -1,6 +1,8 @@
 <div align="left">
 <p align="ceter">
 # Hi there, I'm Abdus Shohid Nasim 👋
+</p>
+  <p align="ceter">
 ### 📱 Flutter Devoloper || Mobile App Enthusiast
 </p>
 <h1 align="center">
