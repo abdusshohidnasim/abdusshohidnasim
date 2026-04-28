@@ -5,22 +5,26 @@
 ---
 
 - 🔭 I’m currently working on **Awesome Mobile Apps**
-- 🌱 I’m currently learning **Advanced Flutter & Clean Architecture**
-- 💬 Ask me about **Flutter, Dart, and Kotlin**
-- 📫 How to reach me: **[Apnar Email Ekhane Din]**
+- 🌱 I’m currently learning **Advanced Flutter**
+- 💬 Ask me about **Flutter, Dart**
+- 📫 How to reach me: **mbdabussshohidnasim@mail.com**
 
 ---
 
 ### 🛠 Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
-![Ismail's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdusshohidnasim&show_icons=true&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdusshohidnasim&theme=tokyonight)
+
+![Nasim's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdusshohidnasim&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdusshohidnasim&layout=compact&theme=tokyonight)
+
 ---
 
 ### 🌱 What I’m Learning
