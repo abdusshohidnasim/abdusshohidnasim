@@ -1,10 +1,12 @@
 <div align="left">
 <h5 align="ceter">
+  ---
 Hi there, I'm Abdus Shohid Nasim 👋
 </h5>
   <h3 align="ceter">
  📱 Flutter Devoloper || Mobile App Enthusiast
 </h3>
+  ---
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF8800&center=true&vCenter=true&width=500&lines=Flutter+Developer;Open+Source+Contributor;Building+Apps+For+Impact;Crafting+Seamless+UI/UX" alt="Typing SVG" />
@@ -53,16 +55,16 @@ Hi there, I'm Abdus Shohid Nasim 👋
 ### 📫 Connect With Me
 
 <a href="https://wa.me/qr/XAEI2OD237CDH1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
-
+---
 
 <a href="https://www.linkedin.com/in/abdus-shohid-nasim-naiem-248567236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-
+---
 
 <a href="https://www.facebook.com/naiemhasannaim.71nr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 
-
+---
 <a href="https://t.me/Naiem998979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="30" width="40" /></a>
-
+---
 
 **📧 Email:** [abdusshohidnasim@gmail.com](mailto:abdusshohidnasim@gmail.com) | **📞 Call:** +8801851998979
 
