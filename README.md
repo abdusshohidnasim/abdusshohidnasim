@@ -29,7 +29,7 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
+<p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdusshohidnasim&theme=tokyonight" alt="GitHub Streak" />
 
@@ -46,12 +46,12 @@
 ---
 
 ### 📫 Connect With Me
-<p align="center">
+
 <a href="https://wa.me/qr/XAEI2OD237CDH1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abdus-shohid-nasim-naiem-248567236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://www.facebook.com/naiemhasannaim.71nr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 <a href="https://t.me/Naiem998979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="30" width="40" /></a>
-</p>
+
 
 **📧 Email:** [abdusshohidnasim@gmail.com](mailto:abdusshohidnasim@gmail.com) | **📞 Call:** +8801851998979
 
