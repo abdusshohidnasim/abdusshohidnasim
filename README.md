@@ -1,7 +1,7 @@
-<div align="center">
+<div align="left">
 
-# Hi there, I'm Ismail Hossain 👋
-### 📱 Flutter || Mobile App Enthusiast
+# Hi there, I'm Abdus Shohid Nasim 👋
+### 📱 Flutter Devoloper || Mobile App Enthusiast
 
 ---
 
