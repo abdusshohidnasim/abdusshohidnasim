@@ -1,12 +1,14 @@
 <div align="left">
-<p align="ceter">
+<h5 align="ceter">
 # Hi there, I'm Abdus Shohid Nasim 👋
-</p>
-  <p align="ceter">
+</h5>
+  <h3 align="ceter">
 ### 📱 Flutter Devoloper || Mobile App Enthusiast
-</p>
+</h3>
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF8800&center=true&vCenter=true&width=435&lines=Kotlin+Multiplatform+E" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF8800&center=true&vCenter=true&width=500&lines=Flutter+Developer;Open+Source+Contributor;Building+Apps+For+Impact;Crafting+Seamless+UI/UX" alt="Typing SVG" />
+  </a>
 </h1>
 
 ---
@@ -27,10 +29,7 @@
 
 ---
 
-### 🚀 Animated Focus
-<h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF8800&center=true&vCenter=true&width=435&lines=Kotlin+Multiplatform+E" alt="Typing SVG" /></a>
-</h1>
+
 
 ---
 
