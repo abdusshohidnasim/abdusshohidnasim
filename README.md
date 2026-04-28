@@ -1,13 +1,15 @@
-# Hi there, I'm Abdus Shohid Nasim 👋
+<div align="center">
 
+# Hi there, I'm Ismail Hossain 👋
 ### 📱 Flutter || Mobile App Enthusiast
 
 ---
 
-- 🔭 I’m currently working on **Awesome Mobile Apps**
-- 🌱 I’m currently learning **Advanced Flutter**
-- 💬 Ask me about **Flutter, Dart**
-- 📫 How to reach me: **mbdabussshohidnasim@mail.com**
+<p align="left">
+  🔭 Currently working on: <b>Awesome Mobile Apps</b> <br>
+  🌱 Learning: <b>Advanced Flutter & Cross-platform Architecture</b> <br>
+  💬 Ask me about: <b>Flutter, Dart & Mobile UI</b>
+</p>
 
 ---
 
@@ -15,12 +17,19 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
+
+---
+
+### 🚀 Animated Focus
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF8800&center=true&vCenter=true&width=435&lines=Kotlin+Multiplatform+E" alt="Typing SVG" /></a>
+</h1>
 
 ---
 
 ### 📊 GitHub Stats
-
-<div align="center">
+<p align="left">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdusshohidnasim&theme=tokyonight" alt="GitHub Streak" />
 
@@ -32,28 +41,25 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdusshohidnasim&layout=compact&theme=tokyonight" alt="Top Langs" />
 
-</div>
+</p>
 
 ---
 
-### 🌱 What I’m Learning
-Currently diving into **Flutter** — building beautiful cross-platform apps.
+### 📫 Connect With Me
+<p align="center">
+<a href="https://wa.me/qr/XAEI2OD237CDH1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdus-shohid-nasim-naiem-248567236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.facebook.com/naiemhasannaim.71nr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://t.me/Naiem998979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="30" width="40" /></a>
+</p>
 
-### 👯 Collaboration
-Looking to collaborate on **Flutter projects** and mobile app development ideas.
-
-### 💬 Connect With Me
-* 🌐 **Facebook:** [Naiem Hasan Naim](https://www.facebook.com/naiemhasannaim.71nr)
-* 💬 **WhatsApp:** [Message Me](https://wa.me/qr/XAEI2OD237CDH1)
-* 💼 **LinkedIn:** [Abdus Shohid Nasim](https://www.linkedin.com/in/abdus-shohid-nasim-naiem-248567236/)
-* 📞 **Emergency:** +8801851998979
+**📧 Email:** [abdusshohidnasim@gmail.com](mailto:abdusshohidnasim@gmail.com) | **📞 Call:** +8801851998979
 
 ---
 
 ### ⚡ Fun Fact
-I love solving bugs more than writing new code 🐛❤️
+*I love solving bugs more than writing new code 🐛❤️*
 
----
-<div align="center">
-# *Thanks for visiting my profile!* 😄 
+**Thanks for visiting my profile! 😄**
+
 </div>
