@@ -49,7 +49,9 @@
 <div align="center">
 
 <a href="https://wa.me/qr/XAEI2OD237CDH1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
-<br><br>
+<br>
+
+<br>
 <a href="https://www.linkedin.com/in/abdus-shohid-nasim-naiem-248567236/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <br><br>
 <a href="https://www.facebook.com/naiemhasannaim.71nr" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
