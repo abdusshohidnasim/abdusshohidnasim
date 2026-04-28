@@ -1,9 +1,26 @@
-# Hi there 👋
+# Hi there, I'm Abdus Shohid Nasim 👋
 
-**My Name is Abdus Shohid Nasim (Naiem)**
-🌍 Living and coding from **Bangladesh** 🇧🇩
+### 📱 Flutter || Mobile App Enthusiast
 
+---
 
+- 🔭 I’m currently working on **Awesome Mobile Apps**
+- 🌱 I’m currently learning **Advanced Flutter & Clean Architecture**
+- 💬 Ask me about **Flutter, Dart, and Kotlin**
+- 📫 How to reach me: **[Apnar Email Ekhane Din]**
+
+---
+
+### 🛠 Tech Stack
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Ismail's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdusshohidnasim&show_icons=true&theme=dark)
 ---
 
 ### 🌱 What I’m Learning
