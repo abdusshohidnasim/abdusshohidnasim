@@ -45,8 +45,7 @@
 
 
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdusshohidnasim&layout=compact&bg_color=0d1117&title_color=ff00ff&text_color=ffffff&icon_color=ff00ff&border_color=ff00ff" />
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdusshohidnasim&bg_color=0d1117&color=ff00ff&line=ff00ff&point=ffffff" /></div>
 
 ---
 
