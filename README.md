@@ -45,8 +45,7 @@
 
 
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdusshohidnasim&layout=compact&theme=tokyonight" alt="Top Langs" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdusshohidnasim&layout=compact&bg_color=0d1117&title_color=ff00ff&text_color=ffffff&icon_color=ff00ff&border_color=ff00ff" />
 </div>
 
 ---
