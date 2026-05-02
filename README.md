@@ -38,14 +38,13 @@
 
   <br/>
 
-  <!-- General Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=abdusshohidnasim&show_icons=true&theme=radical&rank_icon=github" alt="Nasim's GitHub stats" />
+<!-- General Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=abdusshohidnasim&show_icons=true&theme=radical&rank_icon=github" alt="Nasim's GitHub stats" />
 
-  <br/>
+<br/>
 
-  <!-- Top Languages Card (Custom Color) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdusshohidnasim&layout=compact&theme=radical&border_radius=10" alt="Top Langs" />
-
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdusshohidnasim&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
 ---
