@@ -33,21 +33,18 @@
 ### 📊 GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdusshohidnasim&theme=tokyonight" alt="GitHub Streak" />
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdusshohidnasim&theme=tokyonight" alt="GitHub Streak" />
 
----
+  <br/>
 
+  <!-- General Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=abdusshohidnasim&show_icons=true&theme=radical&rank_icon=github" alt="Nasim's GitHub stats" />
 
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=abdusshohidnasim&show_icons=true&theme=tokyonight" alt="Nasim's GitHub stats" />
+  <br/>
 
----
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdusshohidnasim&layout=compact&theme=gruvbox" alt="Top Langs" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdusshohidnasim&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Langs" />
-<br/>
-
-
+  <!-- Top Languages Card (Custom Color) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdusshohidnasim&layout=compact&theme=radical&border_radius=10" alt="Top Langs" />
 
 </div>
 
