@@ -51,6 +51,20 @@
 
 ### 📫 Connect With Me
 
+
+### 📫 Connect With Me
+
+<div align="center">
+
+| **Social Media** | **Instant Messaging** | **Contact Details** |
+| :---: | :---: | :---: |
+| <a href="https://www.linkedin.com/in/abdus-shohid-nasim-naiem-248567236/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> | <a href="https://wa.me/qr/XAEI2OD237CDH1" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a> | 📧 **Email:** [abdusshohidnasim@gmail.com](mailto:abdusshohidnasim@gmail.com) |
+| <a href="https://www.facebook.com/naiemhasannaim.71nr" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a> | <a href="https://t.me/Naiem998979" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a> | 📞 **Call:** [+8801851998979](tel:+8801851998979) |
+
+</div>
+
+
+
 <div align="center">
 
 <a href="https://wa.me/qr/XAEI2OD237CDH1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
