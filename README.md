@@ -39,8 +39,8 @@
   <br/>
 
 <!-- General Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=abdusshohidnasim&show_icons=true&theme=radical&rank_icon=github" alt="Nasim's GitHub stats" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdusshohidnasim&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="Most Used Languages" />
 <br/>
 
 <!-- Top Languages Card -->
