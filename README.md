@@ -44,7 +44,8 @@
 <br/>
 
 <!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdusshohidnasim&layout=compact&theme=radical" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=abdusshohidnasim&show_icons=true&theme=radical&rank_icon=github&cache_seconds=1800" />
+https://github-readme-stats.vercel.app/api?username=abdusshohidnasim&show_icons=true&theme=radical&rank_icon=github&cache_seconds=1800
 </div>
 
 ---
