@@ -35,16 +35,11 @@
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdusshohidnasim&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=abdusshohidnasim&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdusshohidnasim&theme=tokyonight" alt="Most Used Languages" />
-
-<br/><br/>
-
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=abdusshohidnasim&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdusshohidnasim&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 
 </div>
 
