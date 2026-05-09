@@ -26,7 +26,7 @@
 
 <p align="left">
 
-  🔭 Currently working on: <b>Awesome Mobile Apps</b><br>
+  🔭 Currently working on: <b> Mobile Apps</b><br>
 
   🌱 Learning: <b>Advanced Flutter & Cross-platform Architecture</b><br>
 
